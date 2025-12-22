@@ -7,18 +7,22 @@ public class Main {
         System.out.println("Welcome to the BurgerChamps !!! ");
         System.out.println("Our Burger, Your Way !");
 
+//        here total price will be added.
         int totalPrice=0;
         System.out.println("Here is our menu : ");
 
+//        Empty string variables are created for VegMeal.java class.
         String vegBurger="";
         String vegDrink="";
         String vegSize="";
         String vegSideItem="";
 
+//        Order Count is number of orders.
+//        it is started from -1 because indexing in array starts with 0
         int orderCount = -1;
-        boolean keepGoingMenu = true;
+        boolean keepGoingMenu = true; // flag for keep going menu until (No) is typed.
         while(keepGoingMenu==true){
-
+//            if more than 1 orders are made then it will ask this.
             if(orderCount>-1){
                 System.out.print("Do you want to add more meals to the order ? (Yes/No) ");
                 String moreMeal=scn.nextLine();
@@ -32,73 +36,74 @@ public class Main {
                     break;
                 }
             }
+//            from here the selection of the meal starts.
             System.out.println("Select your Meal type : \n" +
                     "1. Quick Meal \n" +
                     "2. Customized Veg Meal \n" +
                     "3. Customized Non Veg Meal");
 
             System.out.print("Enter your Meal type number or type No to cancel the order : ");
-            String mealNum = scn.nextLine();
+            String mealNum = scn.nextLine(); // this is to select meal type : 1. Quick Meal, 2. Customized Veg Meal, 3. Customized Non Veg Meal
 
             if(mealNum.equals("1")){
-                boolean keepGoingQuickMeal=true;
-                while(keepGoingQuickMeal==true) {
+                boolean keepGoingQuickMeal=true; // it is the flag for quick meal
+                while(keepGoingQuickMeal==true) { // while it is true it will keep asking for quick meals.
                     System.out.println("We have 2 options in quick meal : \n" +
                             "1. Regular Meal Rs. 240 \n" +
                             "2. Delux Meal Rs. 350 / Delux Meal with extra fillings Rs. 360");
 
                     System.out.print("Enter your quick meal number or type no to cancel the order : ");
-                    String quickMealNum = scn.nextLine();
+                    String quickMealNum = scn.nextLine(); // it is for getting quick meal number 1. Regular Meal and 2. Delux Meal
 
                     if (quickMealNum.equals("1")) {
-                        orderCount++;
+                        orderCount++; // it will increase order number by 1.
                         Meal regmeal = new Meal();
                         Meal regularMealOrder = new Meal("1");
-                        System.out.println(regularMealOrder);
-                        regmeal.regularMeal();
-                        totalPrice += regmeal.cost;
+                        System.out.println(regularMealOrder);// regularMealOrder is used just to print the toString method in Meal.java
+                        regmeal.regularMeal(); // calling method from Meal.java
+                        totalPrice += regmeal.cost; // adding cost of regular meal to to total cost in the code.
 
                         System.out.print("Do you want to add more Quick Meals ?(Yes/No)  ");
-                        String quickMealDecision = scn.nextLine();
+                        String quickMealDecision = scn.nextLine(); // if yes then it will continue to ask you for the quick meal
 
-                        if(quickMealDecision.toLowerCase().equals("yes")){
+                        if(quickMealDecision.toLowerCase().equals("yes")){ // if yes then it will continue the loop
                             continue;
                         }
-                        else if(quickMealDecision.toLowerCase().equals("no")){
+                        else if(quickMealDecision.toLowerCase().equals("no")){ // else it will ask set the keepGoingQuickMeal flag to false and get out of the while loop
                             keepGoingQuickMeal=false;
                             break;
                         }
-                    } else if (quickMealNum.equals("2")) {
+                    } else if (quickMealNum.equals("2")) { // delux meal is chosen.
                         System.out.print("Do you want some extra fillings in your delux burger ? (Yes/No) ");
-                        String extraFillings = scn.nextLine();
+                        String extraFillings = scn.nextLine(); // enter yes if you want extra fillings in it else enter no
                         Meal delmeal = new Meal();
                         if(extraFillings.toLowerCase().equals("no")){
-                            orderCount++;
-                            delmeal.DeluxMeal();
+                            orderCount++; // order count is increased
+                            delmeal.DeluxMeal(); // normal delux meal is ordered
                             Meal deluxMealOrder = new Meal("2");
-                            System.out.println(deluxMealOrder);
-                            totalPrice += delmeal.cost;
+                            System.out.println(deluxMealOrder); // printing toString method of the code meal class.
+                            totalPrice += delmeal.cost; // delmeal cost is added to total price.
                         }
-                        else if(extraFillings.toLowerCase().equals("yes")){
-                            orderCount++;
+                        else if(extraFillings.toLowerCase().equals("yes")){ //if extrafilling is asked.
+                            orderCount++; // order count is increased
                             Meal deluxMealOrder = new Meal("3");
-                            System.out.println(deluxMealOrder);
+                            System.out.println(deluxMealOrder); // it is to print the toString method in Meal class
                             delmeal.DeluxMeal("Crunchy Chips");
-                            totalPrice+= delmeal.cost;
+                            totalPrice+= delmeal.cost; // it adds cost of the delux meal into the total cost variable
                         }
 
                         System.out.print("Do you want to add more Quick Meals ?(Yes/No)  ");
-                        String quickMealDecision = scn.nextLine();
+                        String quickMealDecision = scn.nextLine(); // it will ask you if you want more quick meals after ordering any one quick meal.
 
-                        if(quickMealDecision.toLowerCase().equals("yes")){
+                        if(quickMealDecision.toLowerCase().equals("yes")){ // if yes then the loop will continue
                             continue;
                         }
-                        else if(quickMealDecision.toLowerCase().equals("no")){
+                        else if(quickMealDecision.toLowerCase().equals("no")){ // else you will be the out of the loop and the flag will be set to false again.
                             keepGoingQuickMeal=false;
                             break;
                         }
                     } else {
-                        System.out.println("Oops your order is canceled !");
+                        System.out.println("Oops your order is canceled !"); // else your order is cancelled
                         keepGoingMenu = false;
                         break;
                     }
