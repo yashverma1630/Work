@@ -1,3 +1,6 @@
+// in enhanced switch case no break; is used.
+// -> is used instead of :
+// { } brackets are used when multiline statements.
 import java.util.*;
 public class Main {
     public static void main(String[] args) {

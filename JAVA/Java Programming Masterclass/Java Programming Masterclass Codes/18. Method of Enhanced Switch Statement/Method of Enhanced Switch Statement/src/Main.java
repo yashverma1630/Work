@@ -9,13 +9,13 @@ public class Main {
     public static String getQuarter(String month){
 
         return switch (month){
-            case "January", "February", "March" -> {yield "1st";}
+            case "January", "February", "March" -> { yield "1st";}
             case "April", "May", "June" -> "2nd";
             case "July", "August", "September" -> "3rd";
             case "October", "November", "December" -> "4th";
             default ->{
                 String BadMonth = "Month is bad";
-                yield BadMonth;
+                yield BadMonth; // yield is used to return value for enahced switch statement
             }
         };
     }

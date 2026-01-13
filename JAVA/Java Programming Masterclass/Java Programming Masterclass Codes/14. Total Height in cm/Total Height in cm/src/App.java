@@ -1,3 +1,4 @@
+// Method declaration feet to inches
 import java.util.*;
 public class App {
     public static void main(String[] args){
@@ -6,7 +7,7 @@ public class App {
         int feet = scn.nextInt();
         System.out.print("Enter inches: ");
         int inches = scn.nextInt();
-        // System.out.print(convertToCentimeters(inches));
+//         System.out.print(convertToCentimeters(inches));
         System.out.print(convertToCentimeters(feet, inches));
     }
 
