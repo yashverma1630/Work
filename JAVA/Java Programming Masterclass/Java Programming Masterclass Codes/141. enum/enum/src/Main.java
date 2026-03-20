@@ -1,7 +1,7 @@
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
-        DayOfTheWeek weekDay = DayOfTheWeek.TUE;
+        DayOfTheWeek weekDay = DayOfTheWeek.TUE; // assigning value to the variable of DayOfTheWeek class. the
 
         System.out.println(weekDay);
 
@@ -22,7 +22,7 @@ public class Main {
     }
 
     public static void switchDayOfWeek(DayOfTheWeek weekDay){
-        int weekDayInteger = weekDay.ordinal()+1;
+        int weekDayInteger = weekDay.ordinal()+1; // ordinal is like index of array. it starts from 0 just like index of array.
 
         switch(weekDay){
             case WED -> System.out.println("Wednesday is Day "+weekDayInteger);
@@ -37,7 +37,7 @@ public class Main {
 
     public static DayOfTheWeek getRandomDay(){
         int randomInteger = new Random().nextInt(7);
-        var allDays = DayOfTheWeek.values();
+        var allDays = DayOfTheWeek.values(); // The array is created as allDays
 
         return allDays[randomInteger];
     }
