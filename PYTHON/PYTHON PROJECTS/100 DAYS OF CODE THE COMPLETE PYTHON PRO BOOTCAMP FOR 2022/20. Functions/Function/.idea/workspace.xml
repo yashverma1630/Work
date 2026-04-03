@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f71a6687-0d43-4eda-9af5-57b3dbae1f8a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/AbstractClass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/src/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/src/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/src/Horse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/142. Abstract Class/AbstractClass/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/143. Abstract Class Practice/1. Animal subanimals abstraction/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/143. Abstract Class Practice/1. Animal subanimals abstraction/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/143. Abstract Class Practice/1. Animal subanimals abstraction/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/143. Abstract Class Practice/1. Animal subanimals abstraction/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/143. Abstract Class Practice/1. Animal subanimals abstraction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/143. Abstract Class Practice/1. Animal subanimals abstraction/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/143. Abstract Class Practice/1. Animal subanimals abstraction/1. Animal subanimals abstraction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/143. Abstract Class Practice/1. Animal subanimals abstraction/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/143. Abstract Class Practice/1. Animal subanimals abstraction/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/Interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/src/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/src/Jet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../JAVA/Java Programming Masterclass/Java Programming Masterclass Codes/144. Interface/Interface/src/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FizzBuzz Game/FizzBuzz Game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Highest Score/Best Highest Score Code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Highest Score/Highest Score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Password Generator/Easy Password Generator Project.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Password Generator/Hard Password Generator Project.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Bi3ArF2lFD5fr1lUjToNVw1zun" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.32098.74" />
+        <option value="bundled-python-sdk-1cd77e80b48f-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.32098.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f71a6687-0d43-4eda-9af5-57b3dbae1f8a" name="Changes" comment="" />
+      <created>1774957923792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774957923792</updated>
+      <workItem from="1774957925024" duration="1373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Function$main.coverage" NAME="main Coverage Results" MODIFIED="1774958093516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
