@@ -2,44 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79d64063-86b7-4242-8dac-b6361130b3fb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractClass.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Horse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../143. Abstract Class Practice/1. Animal subanimals abstraction/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../143. Abstract Class Practice/1. Animal subanimals abstraction/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../143. Abstract Class Practice/1. Animal subanimals abstraction/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../143. Abstract Class Practice/1. Animal subanimals abstraction/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../143. Abstract Class Practice/1. Animal subanimals abstraction/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../143. Abstract Class Practice/1. Animal subanimals abstraction/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../143. Abstract Class Practice/1. Animal subanimals abstraction/1. Animal subanimals abstraction.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../143. Abstract Class Practice/1. Animal subanimals abstraction/src/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../143. Abstract Class Practice/1. Animal subanimals abstraction/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/Interface.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/src/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/src/Bird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/src/Jet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/src/Truck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../PYTHON/PYTHON PROJECTS/100 DAYS OF CODE THE COMPLETE PYTHON PRO BOOTCAMP FOR 2022/FizzBuzz Game/FizzBuzz Game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../PYTHON/PYTHON PROJECTS/100 DAYS OF CODE THE COMPLETE PYTHON PRO BOOTCAMP FOR 2022/Highest Score/Best Highest Score Code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../PYTHON/PYTHON PROJECTS/100 DAYS OF CODE THE COMPLETE PYTHON PRO BOOTCAMP FOR 2022/Highest Score/Highest Score.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../PYTHON/PYTHON PROJECTS/100 DAYS OF CODE THE COMPLETE PYTHON PRO BOOTCAMP FOR 2022/Password Generator/Easy Password Generator Project.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../PYTHON/PYTHON PROJECTS/100 DAYS OF CODE THE COMPLETE PYTHON PRO BOOTCAMP FOR 2022/Password Generator/Hard Password Generator Project.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FULL STACK WEB DEVELOPER/1. The Web Developer Bootcamp by Colt Steele/The Web Developer Bootcamp by Colt Steele Codes/Practice Codes Web Dev/1. HeadingPara/HeadingPara.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FULL STACK WEB DEVELOPER/1. The Web Developer Bootcamp by Colt Steele/The Web Developer Bootcamp by Colt Steele Codes/Practice/Google for Aanya.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FULL STACK WEB DEVELOPER/1. The Web Developer Bootcamp by Colt Steele/The Web Developer Bootcamp by Colt Steele Codes/Practice/Practice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FULL STACK WEB DEVELOPER/1. The Web Developer Bootcamp by Colt Steele/The Web Developer Bootcamp by Colt Steele Codes/Practice/learning.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FULL STACK WEB DEVELOPER/1. The Web Developer Bootcamp by Colt Steele/The Web Developer Bootcamp by Colt Steele Notes/Notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FULL STACK WEB DEVELOPER/Web Practice/CSS/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FULL STACK WEB DEVELOPER/Web Practice/HTML/practice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../144. Interface/Interface/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../145. Interface/Interface/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../145. Interface/Interface/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../145. Interface/Interface/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../145. Interface/Interface/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

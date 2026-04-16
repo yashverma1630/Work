@@ -118,6 +118,15 @@ class Satellite implements OrbitEarth{
 //This interface requires all classes to implement both the OrbitEarth and the FlightEnabled abstract methods.
 interface OrbitEarth extends FlightEnabled{
     void archieveOrbit();
+    private static void log(String description){
+        var today = new java.util.Date();
+        System.out.println(today + ": " + description);
+    }
+
+    private void logStage(FlightStages stage, String description){
+        description = stage +": "+description;
+        log(description);
+    }
 }
 
 // unlike a class, an interface can use the extends expression with multiple interfaces:
